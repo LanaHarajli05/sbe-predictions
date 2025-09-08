@@ -5,3 +5,7 @@ matplotlib
 statsmodels
 python-dateutil
 openpyxl
+scikit-learn
+xgboost
+joblib
+
